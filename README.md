@@ -26,7 +26,7 @@ And worry not, my friends, for I've stashed a few secrets in there (we're talkin
 
 <p align="center"> <img src="img/os.png"> </p>
 
-* **CPU:** Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+* **CPU:** Intel(R) Xeon(R) CPU W-2123
 * **Motherboard:** Lenovo OME
 * **Memory:** Samsung LRDIMM 2x 8GB DDR4 ECC 2133MHZ
 * **Storage (macOS):** x1 PCI SSD 512GB
